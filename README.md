@@ -1,6 +1,6 @@
 # Data Visualization Projects
 
-In this repositiory you will find the data visualisation projects that I have worked on during the period: 2023-03 - 2024.02. This portfolio serves as proof of my proficiency in using different data visualsiation techniques and DAX. <br>
+In this repositiory you will find all the visualisation projects I have worked from 2023-03 to 2024.02. This portfolio serves as proof of my proficiency in using different data visualsiation techniques and DAX. <br>
 
 
 ### [1. Northwind Traders management report](https://github.com/AlexandruDbr/Maven-Market-dashboard.git)
