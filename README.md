@@ -4,13 +4,13 @@ In this repositiory you will find all the visualization projects I have worked o
 
 
 ### [1. Plato's Pizza annual report](https://github.com/AlexandruDbr/Plato-s-Pizza-Project-.git)
-[Visualize in Power BI service](https://app.powerbi.com/links/FLVzyfi7rH?ctid=e6ae8692-b711-4ae6-9ef9-53b5deae89b3&pbi_source=linkShare)
+[Visualize in Power BI service](https://app.powerbi.com/reportEmbed?reportId=376b9399-e954-4c86-8636-904bd6ca0e3e&autoAuth=true&ctid=c94d5b15-408c-4a47-8258-bf142654cc77)
 
 This visualization project based on a data visualization challenge from Maven Analytics. In this project I played the role of a BI consultant, hired by "Plato's Pizza", an Italian-inspired pizza place in New Jersey, whose mission was to help the restaurant find opportunities to drive more sales and work more efficiently by analyzing the data and putting together a 1 page report with financial and commerical key metrics and an analysis over the current table arrangement among with a some brief recommendations.
 
 
 ### [2. Northwind Traders management report](https://github.com/AlexandruDbr/Maven-Market-dashboard.git)
-[Visualize in Power BI service](https://app.powerbi.com/links/TN0ZN89QPS?ctid=e6ae8692-b711-4ae6-9ef9-53b5deae89b3&pbi_source=linkShare)
+[Visualize in Power BI service](https://app.powerbi.com/reportEmbed?reportId=01bae26f-c982-496c-b6db-847c10601e2d&autoAuth=true&ctid=c94d5b15-408c-4a47-8258-bf142654cc77)
 
 This PowerBI report is developed for Northwind Traders, a global import - export company specializing in gourmet food products. The purpose of this dashboard is to provide the executive team insights into the company's performance across the following commercial key areas: sales trends, product performance, key customers, and shipping costs; as well as sales person performance at the global level and their sales, by country and product category. 
 
@@ -22,7 +22,7 @@ This Power BI report is for Maven Market, an international retail store company 
 
 
 ### [4. Covid-19 impact analysis](https://github.com/AlexandruDbr/Covid-19-analysis.git)
-[Visualize in Power BI service](https://app.powerbi.com/links/l3dZPZwoou?ctid=e6ae8692-b711-4ae6-9ef9-53b5deae89b3&pbi_source=linkShare)
+[Visualize in Power BI service](https://app.powerbi.com/reportEmbed?reportId=554a9dc2-cb4e-41ec-8687-bd84a9460b66&autoAuth=true&ctid=c94d5b15-408c-4a47-8258-bf142654cc77)
 
 In this project I used a SQL view containing aggregated data by country related to COVID-19 from 01/01/2020 until 12/31/2023. The underlying dataset of view is from a NGO called “Our World in Data”, who collects and makes available various datasets responding to different global issues, such as global warming, Covid-19, earthquakes, etc. This project intends to answer a few questions which I found interesting with regards to the COVID-19 pandemic using Power BI, such as:
 
@@ -38,7 +38,7 @@ In this project I used a SQL view containing aggregated data by country related 
     
 
 ### [5. Adventure Works Dashboard](https://github.com/AlexandruDbr/Adventure-Works-dashboard.git)
-[Visualize in Power BI service](https://app.powerbi.com/links/KzDHVGr2Ot?ctid=e6ae8692-b711-4ae6-9ef9-53b5deae89b3&pbi_source=linkShare)
+[Visualize in Power BI service](https://app.powerbi.com/reportEmbed?reportId=47c75411-f3a9-4db5-ab3b-92bf6b2f013c&autoAuth=true&ctid=c94d5b15-408c-4a47-8258-bf142654cc77)
 
 This report is for Adventure Works Cycles, a fictional retail company which sells bikes, bike components and accessories as well as cycling clothing. The scope of this project is to provide executive team 3 dashboars: <br>
     1. With the overview over revenue, orders, returns overall and by region and product category. <br>
