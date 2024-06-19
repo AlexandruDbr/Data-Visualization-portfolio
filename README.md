@@ -16,7 +16,7 @@ This PowerBI report is developed for Northwind Traders, a global import - export
 
 
 ### [3. Maven Market dashboard](https://github.com/AlexandruDbr/Maven-Market-dashboard.git)
-[Visualize in Power BI service](https://app.powerbi.com/links/ccGriGlO59?ctid=e6ae8692-b711-4ae6-9ef9-53b5deae89b3&pbi_source=linkShare)
+[Visualize in Power BI service](https://app.powerbi.com/reportEmbed?reportId=e4b3980a-f928-4df2-9390-159d5381cb0a&autoAuth=true&ctid=c94d5b15-408c-4a47-8258-bf142654cc77)
 
 This Power BI report is for Maven Market, an international retail store company with multiple stores of different sizes opened in the United States, Canada and Mexico. The purpose of this dashboard is to provide insights over their financial performance for the period 01/01/1998 and 12/31/1998.
 
