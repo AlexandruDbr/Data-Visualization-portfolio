@@ -10,7 +10,7 @@ This visualization project based on a data visualization challenge from Maven An
 
 
 ### [2. Northwind Traders management report](https://github.com/AlexandruDbr/Maven-Market-dashboard.git)
-[Visualize in Power BI service](<iframe title="Northwind Traders management report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDE1YWU2YjctYWRkZC00Yzg1LTlmOTMtNzljZDI2ZTdjZjExIiwidCI6ImM5NGQ1YjE1LTQwOGMtNGE0Ny04MjU4LWJmMTQyNjU0Y2M3NyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>)
+[Visualize in Power BI service](https://app.powerbi.com/view?r=eyJrIjoiMDE1YWU2YjctYWRkZC00Yzg1LTlmOTMtNzljZDI2ZTdjZjExIiwidCI6ImM5NGQ1YjE1LTQwOGMtNGE0Ny04MjU4LWJmMTQyNjU0Y2M3NyIsImMiOjl9)
 
 This PowerBI report is developed for Northwind Traders, a global import - export company specializing in gourmet food products. The purpose of this dashboard is to provide the executive team insights into the company's performance across the following commercial key areas: sales trends, product performance, key customers, and shipping costs; as well as sales person performance at the global level and their sales, by country and product category. 
 
