@@ -22,7 +22,7 @@ This Power BI report is for Maven Market, an international retail store company 
 
 
 ### [4. Covid-19 impact analysis](https://github.com/AlexandruDbr/Covid-19-analysis.git)
-[Visualize in Power BI service](https://app.powerbi.com/view?r=eyJrIjoiMmExMGNkODctZDMxZi00ZGYxLThmY2UtNDI3OWFiMjA5MmUyIiwidCI6ImM5NGQ1YjE1LTQwOGMtNGE0Ny04MjU4LWJmMTQyNjU0Y2M3NyIsImMiOjl9)
+[Visualize in Power BI service](https://app.powerbi.com/view?r=eyJrIjoiYTk2NjI0NGUtMmY3Ni00MDI3LTkxYjEtYzVkYmZhMTg2MjczIiwidCI6ImM5NGQ1YjE1LTQwOGMtNGE0Ny04MjU4LWJmMTQyNjU0Y2M3NyIsImMiOjl9)
 
 In this project I used a SQL view containing aggregated data by country related to COVID-19 from 01/01/2020 until 12/31/2023. The underlying dataset of view is from a NGO called “Our World in Data”, who collects and makes available various datasets responding to different global issues, such as global warming, Covid-19, earthquakes, etc. This project intends to answer a few questions which I found interesting with regards to the COVID-19 pandemic using Power BI, such as:
 
