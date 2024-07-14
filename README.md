@@ -24,17 +24,15 @@ This Power BI report is for Maven Market, an international retail store company 
 ### [4. Covid-19 impact analysis](https://github.com/AlexandruDbr/Covid-19-analysis.git)
 [Visualize in Power BI service](https://app.powerbi.com/view?r=eyJrIjoiYTk2NjI0NGUtMmY3Ni00MDI3LTkxYjEtYzVkYmZhMTg2MjczIiwidCI6ImM5NGQ1YjE1LTQwOGMtNGE0Ny04MjU4LWJmMTQyNjU0Y2M3NyIsImMiOjl9)
 
-In this project I used a SQL view containing aggregated data by country related to COVID-19 from 01/01/2020 until 12/31/2023. The underlying dataset of view is from a NGO called “Our World in Data”, who collects and makes available various datasets responding to different global issues, such as global warming, Covid-19, earthquakes, etc. This project intends to answer a few questions which I found interesting with regards to the COVID-19 pandemic using Power BI, such as:
+In this project I used a SQL view containing aggregated data by country related to COVID-19 from 01/01/2020 to 12/31/2023. The underlying dataset of view is from a NGO called “Our World in Data”, which collects and makes available various datasets responding to different global issues, such as global warming, Covid-19, earthquakes, etc. This project intends to answer a few questions which I found interesting with regards to the COVID-19 pandemic using Power BI, such as:
 
-    Has vaccination significantly reduced the incidence rate of COVID-19 overall?
-
-    Which continents have an increased number of people over 69 years old? 
+    Which continents have an increased number of people over 64 years old? 
     
     Were these countries highly impacted compared to other countries with a smaller rate of seniors?
 
     How accessible were vaccines overall? Were the low income citizens provided the possibility of taking a vaccine shot?
 
-    What was the number of people vaccinated with at least 1 dose per continent?
+    What is the vaccination rate (with at least 1 dose) per continent, sub-regions?
     
 
 ### [5. Adventure Works Dashboard](https://github.com/AlexandruDbr/Adventure-Works-dashboard.git)
